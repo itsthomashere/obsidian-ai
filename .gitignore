@@ -1,4 +1,4 @@
 .env
-station-1--audio-files/*
-station-2--rough-transcripts/*
-station-3--polished-transcripts/*
+stations/station-1--audio-files/*
+stations/station-2--rough-transcripts/*
+stations/station-3--polished-transcripts/*
